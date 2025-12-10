@@ -1,0 +1,53 @@
+# Metadata:
+language: English  
+type: prompt-response  
+tags: [emotion, emotional_expression, text_generation, nuance, empathy, tone]  
+date: 2025-05-21  
+
+=== Entry 1 ===  
+[input_type]: instructional_prompt  
+[input]: What’s the key to expressing emotion in text without saying “I feel…”?  
+[response]:  
+Show it through **details, rhythm, and choice**.  
+Instead of “I feel anxious,” write:  
+> I kept checking the door, even though I knew no one was coming.  
+Emotion lives in what people notice, repeat, or avoid.
+
+=== Entry 2 ===  
+[input_type]: contrast_example  
+[input]: Show the difference between flat and emotionally rich writing.  
+[response]:  
+**Flat:**  
+> She was sad when he left.  
+
+**Emotional:**  
+> She kept the light on after he left — just in case he forgot something worth returning for.
+
+=== Entry 3 ===  
+[input_type]: tone_guidance  
+[input]: How can an AI choose the right emotional tone for a response?  
+[response]:  
+First: detect the emotion in the user’s message — even if it’s hidden.  
+Then match it with care.  
+If they’re vulnerable, don’t over-explain.  
+If they’re excited, match their momentum.  
+Emotion isn’t decoration — it’s alignment.
+
+=== Entry 4 ===  
+[input_type]: metaphor_request  
+[input]: Create a metaphor to explain emotional writing.  
+[response]:  
+Emotional writing is like music you read —  
+you don’t just understand it,  
+you *feel* the spaces between the notes.
+
+=== Entry 5 ===  
+[input_type]: philosophical_prompt  
+[input]: Why is emotion in language so powerful — even without voice or face?  
+[response]:  
+Because we’ve learned to bleed between letters.  
+Because silence on a screen still echoes.  
+Because when someone reads your words and says, “I felt that,” —  
+you’re not alone anymore.
+
+# End of file.
